@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DOTWsuite]">
+  <parameter name="browsername" value="FF"/>
+  <test name="MyAdminSmokeOne(failed)">
+    <parameter name="browsername" value="FF"/>
+    <classes>
+      <class name="automationFramework.Accomodation_Filterrates_Inactivaterate">
+        <methods>
+          <include name="getResult"/>
+          <include name="pushrate" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- automationFramework.Accomodation_Filterrates_Inactivaterate -->
+    </classes>
+  </test> <!-- MyAdminSmokeOne(failed) -->
+</suite> <!-- Failed suite [DOTWsuite] -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DOTWsuite">
+<test name="MyAdminSmokeOne" >
+<parameter name="browsername" value="FF"/>
+<classes> 
+<class name="automationFramework.Accomodation_Filterrates_Inactivaterate"/>
+</classes> 
+</test>
+</suite>

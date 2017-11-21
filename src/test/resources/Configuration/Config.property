@@ -1,0 +1,7 @@
+
+ChromeDriver = D:\\Driver\\chromedriver.exe
+IEDriver = D:\\IEDriverServer.exe
+URL = https://stage.aws.dotw.com/_myadmin/login
+ExcelPath = D:\\Test Repository\\TestData.xlsx
+ScreenShot=D:/Test Repository/Test Screenshots
+ReportPath=D:\\Test Repository\\Report\\Report.html
