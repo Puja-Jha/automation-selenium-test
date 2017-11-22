@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DOTWsuite" duration-ms="67363" started-at="2017-11-22T13:54:42Z" finished-at="2017-11-22T13:55:49Z">
+    <groups>
+    </groups>
+    <test name="MyAdminSmokeOne" duration-ms="67363" started-at="2017-11-22T13:54:42Z" finished-at="2017-11-22T13:55:49Z">
+      <class name="automationFramework.Accomodation_Filterrates_Inactivaterate">
+        <test-method status="PASS" signature="pushrate(java.lang.String)[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@544fe44c]" name="pushrate" duration-ms="67027" started-at="2017-11-22T19:24:42Z" finished-at="2017-11-22T19:25:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pushrate -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@544fe44c]" name="getResult" is-config="true" duration-ms="3" started-at="2017-11-22T19:25:49Z" finished-at="2017-11-22T19:25:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pushrate status=SUCCESS method=Accomodation_Filterrates_Inactivaterate.pushrate(java.lang.String)[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@544fe44c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@544fe44c]" name="afterTest" is-config="true" duration-ms="305" started-at="2017-11-22T19:25:49Z" finished-at="2017-11-22T19:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- automationFramework.Accomodation_Filterrates_Inactivaterate -->
+    </test> <!-- MyAdminSmokeOne -->
+  </suite> <!-- DOTWsuite -->
+</testng-results>

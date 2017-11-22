@@ -130,3 +130,77 @@
 2017-11-22 18:23:04,326 - Inactive_rate -INFO - Accomodation Unit Selected
 2017-11-22 18:23:04,327 - Inactive_rate -INFO - Navigating to ContractList
 2017-11-22 18:23:26,982 - Inactive_rate -INFO - Rate Inactivated
+2017-11-22 18:26:52,917 - Inactive_rate -INFO - Test Case Started
+2017-11-22 18:27:02,125 - Inactive_rate -INFO - Browser Opened
+2017-11-22 18:27:06,396 - Inactive_rate -INFO - Test Case Started
+2017-11-22 18:27:15,644 - Inactive_rate -INFO - Login Successful
+2017-11-22 18:27:15,645 - Inactive_rate -INFO - Searching Accomodation
+2017-11-22 18:27:15,645 - Inactive_rate -INFO - Navigating to Accomodation search page
+2017-11-22 18:27:21,798 - Inactive_rate -INFO - Navigated to Accomodation search page
+2017-11-22 18:27:24,030 - Inactive_rate -INFO - Selecting Accomodation Unit
+2017-11-22 18:27:35,953 - Inactive_rate -INFO - Accomodation Unit Selected
+2017-11-22 18:27:35,954 - Inactive_rate -INFO - Navigating to ContractList
+2017-11-22 18:27:57,936 - Inactive_rate -INFO - Rate Inactivated
+2017-11-22 18:31:34,598 - Inactive_rate -INFO - Test Case Started
+2017-11-22 18:31:43,525 - Inactive_rate -INFO - Browser Opened
+2017-11-22 18:31:48,237 - Inactive_rate -INFO - Test Case Started
+2017-11-22 18:31:59,140 - Inactive_rate -INFO - Login Successful
+2017-11-22 18:31:59,141 - Inactive_rate -INFO - Searching Accomodation
+2017-11-22 18:31:59,142 - Inactive_rate -INFO - Navigating to Accomodation search page
+2017-11-22 18:32:05,699 - Inactive_rate -INFO - Navigated to Accomodation search page
+2017-11-22 18:32:07,878 - Inactive_rate -INFO - Selecting Accomodation Unit
+2017-11-22 18:32:19,502 - Inactive_rate -INFO - Accomodation Unit Selected
+2017-11-22 18:32:19,503 - Inactive_rate -INFO - Navigating to ContractList
+2017-11-22 18:34:11,410 - Inactive_rate -INFO - Test Case Started
+2017-11-22 18:34:20,124 - Inactive_rate -INFO - Browser Opened
+2017-11-22 18:34:24,659 - Inactive_rate -INFO - Test Case Started
+2017-11-22 18:34:34,044 - Inactive_rate -INFO - Login Successful
+2017-11-22 18:34:34,045 - Inactive_rate -INFO - Searching Accomodation
+2017-11-22 18:34:34,045 - Inactive_rate -INFO - Navigating to Accomodation search page
+2017-11-22 18:34:40,191 - Inactive_rate -INFO - Navigated to Accomodation search page
+2017-11-22 18:34:42,414 - Inactive_rate -INFO - Selecting Accomodation Unit
+2017-11-22 18:34:53,775 - Inactive_rate -INFO - Accomodation Unit Selected
+2017-11-22 18:34:53,775 - Inactive_rate -INFO - Navigating to ContractList
+2017-11-22 18:35:15,350 - Inactive_rate -INFO - Rate Inactivated
+2017-11-22 19:05:26,439 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:05:35,283 - Inactive_rate -INFO - Browser Opened
+2017-11-22 19:05:39,983 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:05:49,557 - Inactive_rate -INFO - Login Successful
+2017-11-22 19:05:49,558 - Inactive_rate -INFO - Searching Accomodation
+2017-11-22 19:05:49,558 - Inactive_rate -INFO - Navigating to Accomodation search page
+2017-11-22 19:05:55,634 - Inactive_rate -INFO - Navigated to Accomodation search page
+2017-11-22 19:05:57,798 - Inactive_rate -INFO - Selecting Accomodation Unit
+2017-11-22 19:06:10,049 - Inactive_rate -INFO - Accomodation Unit Selected
+2017-11-22 19:06:10,050 - Inactive_rate -INFO - Navigating to ContractList
+2017-11-22 19:06:54,361 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:07:03,877 - Inactive_rate -INFO - Browser Opened
+2017-11-22 19:07:08,422 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:07:17,044 - Inactive_rate -INFO - Login Successful
+2017-11-22 19:07:17,045 - Inactive_rate -INFO - Searching Accomodation
+2017-11-22 19:07:17,046 - Inactive_rate -INFO - Navigating to Accomodation search page
+2017-11-22 19:07:23,523 - Inactive_rate -INFO - Navigated to Accomodation search page
+2017-11-22 19:07:25,729 - Inactive_rate -INFO - Selecting Accomodation Unit
+2017-11-22 19:07:37,306 - Inactive_rate -INFO - Accomodation Unit Selected
+2017-11-22 19:07:37,307 - Inactive_rate -INFO - Navigating to ContractList
+2017-11-22 19:07:58,334 - Inactive_rate -INFO - Rate Inactivated
+2017-11-22 19:19:43,802 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:19:53,061 - Inactive_rate -INFO - Browser Opened
+2017-11-22 19:19:57,725 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:20:06,333 - Inactive_rate -INFO - Login Successful
+2017-11-22 19:20:06,334 - Inactive_rate -INFO - Searching Accomodation
+2017-11-22 19:20:06,335 - Inactive_rate -INFO - Navigating to Accomodation search page
+2017-11-22 19:20:12,281 - Inactive_rate -INFO - Navigated to Accomodation search page
+2017-11-22 19:20:14,434 - Inactive_rate -INFO - Selecting Accomodation Unit
+2017-11-22 19:20:25,879 - Inactive_rate -INFO - Accomodation Unit Selected
+2017-11-22 19:20:25,879 - Inactive_rate -INFO - Navigating to ContractList
+2017-11-22 19:24:42,849 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:24:52,546 - Inactive_rate -INFO - Browser Opened
+2017-11-22 19:24:57,172 - Inactive_rate -INFO - Test Case Started
+2017-11-22 19:25:05,747 - Inactive_rate -INFO - Login Successful
+2017-11-22 19:25:05,748 - Inactive_rate -INFO - Searching Accomodation
+2017-11-22 19:25:05,748 - Inactive_rate -INFO - Navigating to Accomodation search page
+2017-11-22 19:25:12,072 - Inactive_rate -INFO - Navigated to Accomodation search page
+2017-11-22 19:25:14,218 - Inactive_rate -INFO - Selecting Accomodation Unit
+2017-11-22 19:25:25,740 - Inactive_rate -INFO - Accomodation Unit Selected
+2017-11-22 19:25:25,740 - Inactive_rate -INFO - Navigating to ContractList
+2017-11-22 19:25:49,195 - Inactive_rate -INFO - Rate Inactivated
