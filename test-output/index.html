@@ -128,9 +128,26 @@
                   </a> <!-- pushrate(FF) -->
                   <span class="method-name">pushrate</span>
                   <span class="parameters">(FF)</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at automationFramework.Accomodation_Filterrates_Inactivaterate.pushrate(Accomodation_Filterrates_Inactivaterate.java:172)
-... Removed 28 stack frames
+                  <div class="stack-trace">java.lang.NoClassDefFoundError: org/apache/http/auth/Credentials
+	at org.openqa.selenium.remote.HttpCommandExecutor.getDefaultClientFactory(HttpCommandExecutor.java:96)
+	at org.openqa.selenium.remote.HttpCommandExecutor.&lt;init&gt;(HttpCommandExecutor.java:70)
+	at org.openqa.selenium.remote.HttpCommandExecutor.&lt;init&gt;(HttpCommandExecutor.java:58)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:87)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:218)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:207)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:120)
+	at lib.DriverAndObjectDetails.CreateDriver(DriverAndObjectDetails.java:62)
+	at automationFramework.Accomodation_Filterrates_Inactivaterate.pushrate(Accomodation_Filterrates_Inactivaterate.java:66)
+Caused by: java.lang.ClassNotFoundException: org.apache.http.auth.Credentials
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 36 more
+... Removed 24 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
@@ -193,12 +210,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'pushrate')
 data.setCell(0, 2, 'automationFramework.Accomodation_Filterrates_Inactivaterate')
-data.setCell(0, 3, 67958);
+data.setCell(0, 3, 2308);
 window.suiteTableData['DOTWsuite']= { tableData: data, tableDiv: 'times-div-DOTWsuite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 2 seconds</span>
               <div id="times-div-DOTWsuite">
               </div> <!-- times-div-DOTWsuite -->
             </div> <!-- times-div -->
@@ -233,7 +250,7 @@ return data;
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">getResult([TestResult name=pushrate status=FAILURE method=Accomodation_Filterrates_Inactivaterate.pushrate(jav...)</span>
-                <span class="method-start">67961 ms</span>
+                <span class="method-start">2308 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

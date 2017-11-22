@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Nov 21 12:53:20 IST 2017</td>
+<td>Started on:</td><td>Wed Nov 22 13:00:23 IST 2017</td>
 </tr>
-<tr><td>Total time:</td><td>67 seconds (67993 ms)</td>
+<tr><td>Total time:</td><td>2 seconds (2357 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,15 +76,39 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='automationFramework.Accomodation_Filterrates_Inactivaterate.pushrate()'><b>pushrate</b><br>Test class: automationFramework.Accomodation_Filterrates_Inactivaterate<br>Parameters: FF</td>
-<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
-	at automationFramework.Accomodation_Filterrates_Inactivaterate.pushrate(Accomodation_Filterrates_Inactivaterate.java:172)
-... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2120063568", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace2120063568'><pre>java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:494)
-	at org.testng.Assert.assertTrue(Assert.java:42)
-	at org.testng.Assert.assertTrue(Assert.java:52)
-	at automationFramework.Accomodation_Filterrates_Inactivaterate.pushrate(Accomodation_Filterrates_Inactivaterate.java:172)
+<td><div><pre>java.lang.NoClassDefFoundError: org/apache/http/auth/Credentials
+	at org.openqa.selenium.remote.HttpCommandExecutor.getDefaultClientFactory(HttpCommandExecutor.java:96)
+	at org.openqa.selenium.remote.HttpCommandExecutor.&lt;init&gt;(HttpCommandExecutor.java:70)
+	at org.openqa.selenium.remote.HttpCommandExecutor.&lt;init&gt;(HttpCommandExecutor.java:58)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:87)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:218)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:207)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:120)
+	at lib.DriverAndObjectDetails.CreateDriver(DriverAndObjectDetails.java:62)
+	at automationFramework.Accomodation_Filterrates_Inactivaterate.pushrate(Accomodation_Filterrates_Inactivaterate.java:66)
+Caused by: java.lang.ClassNotFoundException: org.apache.http.auth.Credentials
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 36 more
+... Removed 24 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2083999882", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2083999882'><pre>java.lang.NoClassDefFoundError: org/apache/http/auth/Credentials
+	at org.openqa.selenium.remote.HttpCommandExecutor.getDefaultClientFactory(HttpCommandExecutor.java:96)
+	at org.openqa.selenium.remote.HttpCommandExecutor.&lt;init&gt;(HttpCommandExecutor.java:70)
+	at org.openqa.selenium.remote.HttpCommandExecutor.&lt;init&gt;(HttpCommandExecutor.java:58)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:87)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:119)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:218)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:211)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:207)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:120)
+	at lib.DriverAndObjectDetails.CreateDriver(DriverAndObjectDetails.java:62)
+	at automationFramework.Accomodation_Filterrates_Inactivaterate.pushrate(Accomodation_Filterrates_Inactivaterate.java:66)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -109,9 +133,15 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+Caused by: java.lang.ClassNotFoundException: org.apache.http.auth.Credentials
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 36 more
 </pre></div></td>
-<td>67</td>
-<td>automationFramework.Accomodation_Filterrates_Inactivaterate@2781e022</td></tr>
+<td>2</td>
+<td>automationFramework.Accomodation_Filterrates_Inactivaterate@6ee52dcd</td></tr>
 </table><p>
 </body>
 </html>
