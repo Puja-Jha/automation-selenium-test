@@ -162,7 +162,6 @@
 						<configuration>
 							<suiteXmlFiles>
 								<suiteXmlFile>testng.xml</suiteXmlFile>
-								<suiteXmlFile>ReportsConfig.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
