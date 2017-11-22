@@ -4,4 +4,4 @@ IEDriver = D:\\IEDriverServer.exe
 URL = https://stage.aws.dotw.com/_myadmin/login
 ExcelPath = D:\\Test Repository\\TestData.xlsx
 ScreenShot=D:/Test Repository/Test Screenshots
-ReportPath=D:\\Test Repository\\Report\\Report.html
+ReportPath=D:\\NewWorkSpace_Eclipse\\dotwautomation\\target\\Report.html

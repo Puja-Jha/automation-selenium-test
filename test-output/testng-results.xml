@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="DOTWsuite" duration-ms="68816" started-at="2017-11-22T12:12:07Z" finished-at="2017-11-22T12:13:16Z">
+  <suite name="DOTWsuite" duration-ms="68408" started-at="2017-11-22T12:52:18Z" finished-at="2017-11-22T12:53:27Z">
     <groups>
     </groups>
-    <test name="MyAdminSmokeOne" duration-ms="68816" started-at="2017-11-22T12:12:07Z" finished-at="2017-11-22T12:13:16Z">
+    <test name="MyAdminSmokeOne" duration-ms="68408" started-at="2017-11-22T12:52:18Z" finished-at="2017-11-22T12:53:27Z">
       <class name="automationFramework.Accomodation_Filterrates_Inactivaterate">
-        <test-method status="PASS" signature="pushrate(java.lang.String)[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@1500955a]" name="pushrate" duration-ms="68044" started-at="2017-11-22T17:42:08Z" finished-at="2017-11-22T17:43:16Z">
+        <test-method status="PASS" signature="pushrate(java.lang.String)[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@1500955a]" name="pushrate" duration-ms="68092" started-at="2017-11-22T18:22:18Z" finished-at="2017-11-22T18:23:26Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pushrate -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@1500955a]" name="getResult" is-config="true" duration-ms="0" started-at="2017-11-22T17:43:16Z" finished-at="2017-11-22T17:43:16Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@1500955a]" name="getResult" is-config="true" duration-ms="4" started-at="2017-11-22T18:23:26Z" finished-at="2017-11-22T18:23:26Z">
           <params>
             <param index="0">
               <value>
@@ -29,7 +29,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@1500955a]" name="afterTest" is-config="true" duration-ms="741" started-at="2017-11-22T17:43:16Z" finished-at="2017-11-22T17:43:16Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationFramework.Accomodation_Filterrates_Inactivaterate@1500955a]" name="afterTest" is-config="true" duration-ms="290" started-at="2017-11-22T18:23:26Z" finished-at="2017-11-22T18:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
