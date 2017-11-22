@@ -187,15 +187,15 @@ public class Accomodation_Filterrates_Inactivaterate {
 			if (result.getStatus() == ITestResult.FAILURE) {
 				test.log(LogStatus.FAIL, result.getThrowable());
 			}
-			//rep.endTest(test);
+			rep.endTest(test);
 		}
 
-		/*@AfterTest
+		@AfterTest
 		public void afterTest() {
 
 			rep.endTest(test);
 			rep.flush();
 			//driverqa.close();
-		}*/
+		}
 
 }
