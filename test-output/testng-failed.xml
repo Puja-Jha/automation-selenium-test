@@ -9,6 +9,7 @@
         <methods>
           <include name="getResult"/>
           <include name="pushrate" invocation-numbers="0"/>
+          <include name="afterTest"/>
         </methods>
       </class> <!-- automationFramework.Accomodation_Filterrates_Inactivaterate -->
     </classes>
