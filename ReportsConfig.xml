@@ -10,13 +10,13 @@
         
         <!-- protocol for script and stylesheets -->
         <!-- defaults to https -->
-        <protocol>https</protocol>
+        <protocol>http</protocol>
         
         <!-- title of the document -->
-        <documentTitle>Extent</documentTitle>
+        <documentTitle>Selenium</documentTitle>
         
         <!-- report name - displayed at top-nav -->
-        <reportName>Automation Report</reportName>
+        <reportName>Selenium-Automation Report</reportName>
         
         <reportHeadline>HeadLine 1</reportHeadline>
         <!-- global date format override -->
